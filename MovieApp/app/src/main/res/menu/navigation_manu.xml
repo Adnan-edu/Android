@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/addMessage"
+        android:title="Home Screen" />
+    <item android:id="@+id/displayMessage"
+        android:title="Movie Search" />
+    <item android:id="@+id/watchListNav"
+        android:title="WatchList Screen" />
+    <item android:id="@+id/addCinemaNav"
+        android:title="Add Cinema" />
+    <item android:id="@+id/showmovieMemoir"
+        android:title="Movie Memoir" />
+    <item android:id="@+id/showbarPieGrph"
+        android:title="Report" />
+    <item android:id="@+id/googleMap"
+        android:title="Map" />
+</menu>
